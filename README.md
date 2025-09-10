@@ -25,12 +25,14 @@ Built with **JavaScript** and **Canvas API**, this project simulates orbital mot
 ---
 
 ## 📂 Project Structure
+```
 ├── images
 │ ├── pic1.png
 │ ├── pic2.png
 ├── index.html 
 ├── particle-clash.js 
 └── README.md 
+```
 
 ---
 
