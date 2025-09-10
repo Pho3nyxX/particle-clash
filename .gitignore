@@ -1,0 +1,71 @@
+# Compiled class file
+*.class
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Visual Studio Trace Files
+*.e2e
+
+# Ionide (cross platform F# VS Code tools) working folder
+.ionide/
+
+# VS Code files for those working on multiple tools
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+# node ignore
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Gradle
+.gradle
+build/
+
+# Maven
+maven-wrapper.jar
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Misc
+*.log
+*.class
+.jqwik-database
+install-jdk.sh
+.sdkmanrc
+
+pnpm-lock.yaml
