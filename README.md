@@ -13,8 +13,8 @@ Built with **JavaScript** and **Canvas API**, this project simulates orbital mot
 ## 🚀 Features
 - **big particle** circular motion around the canvas center.  
 - **small particle** collides with big particle.  
-- **explosion effect** when small particle collides with big particle  
-- Smooth animations with a fading trail effect.  
+- **explosion effect** when small particle collide with big particle  
+- smooth animations with a fading trail effect.  
 
 ---
 
