@@ -1,4 +1,4 @@
-# 🎇 Particle Clash
+# Particle Clash
 
 <div align="center">
   <img src="./images/pic1.png" alt="Pic 1" width="200" height="200" />
@@ -10,7 +10,7 @@ Built with **JavaScript** and **Canvas API**, this project simulates orbital mot
 
 ---
 
-## 🚀 Features
+## Features
 - **big particle** circular motion around the canvas center.  
 - **small particle** collides with big particle.  
 - **explosion effect** when small particle collide with big particle  
@@ -18,13 +18,13 @@ Built with **JavaScript** and **Canvas API**, this project simulates orbital mot
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **JavaScript (ES6)**  
 - **HTML5 Canvas API**  
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 ├── images
 │ ├── pic1.png
@@ -36,7 +36,7 @@ Built with **JavaScript** and **Canvas API**, this project simulates orbital mot
 
 ---
 
-## ⚡ Getting Started
+## Getting Started
 
 1. Clone the repository:
    ```bash
