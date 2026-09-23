@@ -1,10 +1,5 @@
 # Particle Clash
 
-<div align="center">
-  <img src="./images/pic1.png" alt="Pic 1" width="200" height="200" />
-  <img src="./images/pic2.png" alt="Pic 2" width="200" height="200" />
-</div>  
-
 An HTML5 canvas experiment where particles collide and explode into colorful fragments.  
 Built with **JavaScript** and **Canvas API**, this project simulates orbital motion, bouncing particles, and explosion effects.
 
